@@ -8,7 +8,7 @@ race, union membership, and job stability.
 - How unequal are hourly wages among women?
 - How symmetrical is educational attainment(grade)?
 - Does race affect women’s wages?
-- Does union membership improve wages or job stability?
+- Does union membership affect job stability?
 - Which factors predict union membership among women?
 
 ## Data
